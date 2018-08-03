@@ -1,0 +1,8 @@
+text
+4
+1
+In which capital city in Europe would you find the Eiffel tower?
+Paris
+Barcelona
+Rome
+Belfast

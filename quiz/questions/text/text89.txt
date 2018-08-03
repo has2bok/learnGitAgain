@@ -1,0 +1,8 @@
+text
+4
+3
+How many stars has the American flag got?
+Fifty-two
+Fifty-one
+Fifty
+Forty-nine

@@ -1,0 +1,8 @@
+text
+4
+3
+What pets do more families own?
+Birds
+Cats
+Dogs
+Horses

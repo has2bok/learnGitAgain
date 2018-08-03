@@ -1,0 +1,9 @@
+picture
+4
+1
+statueliberty.jpg
+This statue was gifted to the United States by which country?
+France
+Canada
+Mexico
+Italy

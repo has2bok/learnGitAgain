@@ -1,0 +1,8 @@
+text
+4
+3
+Helsinki is the capital city of which country?
+Iceland
+Sweden
+Finland
+Greenland

@@ -1,0 +1,8 @@
+text
+4
+3
+Which device do we use to look at the stars?
+Stethoscope
+Microscope
+Telescope
+Spacescope

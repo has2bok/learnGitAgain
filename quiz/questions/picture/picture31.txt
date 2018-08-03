@@ -1,0 +1,9 @@
+picture
+4
+2
+pinocchio.jpg
+What is the name of the wood carver who created this puppet?
+Stromboli
+Gepetto
+Lampwick
+Figaro

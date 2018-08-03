@@ -1,0 +1,8 @@
+text
+4
+4
+Which of the folowing dogs is the smallest?
+Daschund
+Poodle
+Pomeranian
+Chihuahua

@@ -1,0 +1,8 @@
+text
+4
+1
+According to the World Boxing Association, which weight class is just below ‘heavyweight’?
+Cruiserweight
+Light Heavyweight
+Super Middleweight
+Welterweight

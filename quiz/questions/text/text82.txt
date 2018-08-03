@@ -1,0 +1,8 @@
+text
+4
+4
+Who painted the Mona Lisa?
+Vincent Van Gogh
+Pablo Picasso
+Donatello
+Leonardo da Vinci

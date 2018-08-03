@@ -1,0 +1,9 @@
+picture
+4
+1
+crescent.png
+Does this look like the moon? What shape is this?
+Crescent
+Oval
+Pentagon
+Semicircle

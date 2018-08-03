@@ -1,0 +1,9 @@
+picture
+4
+1
+robin.jpg
+What is the name of this super hero's sidekick?
+Robin
+Bob
+Batman
+Red Dude

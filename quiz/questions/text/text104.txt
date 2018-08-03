@@ -1,0 +1,8 @@
+text
+4
+1
+What are the three primary colors?
+Blue, yellow and red
+Red, yellow and green
+Green, yellow and blue
+Blue, green and red

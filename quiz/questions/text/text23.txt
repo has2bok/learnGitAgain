@@ -1,0 +1,8 @@
+text
+4
+3
+What are female elephants called?
+Mares
+Sows
+Cows
+Dams

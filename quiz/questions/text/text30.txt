@@ -1,0 +1,8 @@
+text
+4
+2
+What year was the battle of Hastings?
+1610
+1066
+1690
+1966

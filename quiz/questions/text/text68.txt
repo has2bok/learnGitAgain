@@ -1,0 +1,8 @@
+text
+4
+3
+On a farm a kid is a baby what?
+Pig
+Cow
+Goat
+Ferret

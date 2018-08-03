@@ -1,0 +1,9 @@
+text
+4
+4
+Which of the ‘X-Men’ characters was born James Howlett and is often known as Logan?
+Professor X
+Cyclops
+Beast
+Wolverine
+

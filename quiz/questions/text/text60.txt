@@ -1,0 +1,8 @@
+text
+4
+3
+Which large country is closest to New Zealand?
+Indonasia
+Japan
+Australia
+Old Zealand

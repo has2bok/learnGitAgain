@@ -1,0 +1,8 @@
+text
+4
+4
+What is the name of the bad guy in the ‘Nightmare On Elm Street’ films?
+Darth Vader
+The Grinch
+Willy Wonka
+Freddy Krueger

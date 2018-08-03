@@ -1,0 +1,8 @@
+text
+4
+1
+Pharaoh is the title given to the rulers of which ancient country?
+Egypt
+Greece
+China
+India

@@ -1,0 +1,9 @@
+picture
+4
+4
+arsenal.jpg
+Which Premier League football teams wears this kit?
+Liverpool
+Manchester United
+Chelsea
+Arsenal

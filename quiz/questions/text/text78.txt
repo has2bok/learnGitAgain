@@ -1,0 +1,8 @@
+text
+4
+4
+What was the name of the monk in the Robin Hood legend?
+Father Ted
+Cardinal Sin
+Father Jack
+Friar Tuck

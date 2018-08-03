@@ -1,0 +1,8 @@
+text
+4
+1
+What type of creature is a dugite?
+Snake
+Mole
+Worm
+Armadillo

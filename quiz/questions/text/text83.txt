@@ -1,0 +1,8 @@
+text
+4
+1
+Name all the seven dwarfs from the fairy tale ‘Snow White’
+Sleepy, Sneezy, Happy, Grumpy, Doc, Dopey, Bashful
+Sneezy, Unhappy, Grumpy, Doc, Dopey, Bashful, Snoozy
+Happy, Grumpy, Doc, Numpty, Bashful, Sleezy
+Frumpy, Doc, Ropey, Bashful, Sleepy, Snoozy, Slappy

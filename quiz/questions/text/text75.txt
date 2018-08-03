@@ -1,0 +1,8 @@
+text
+4
+1
+Which country can be seen when directly looking over the sea from The White Cliffs of Dover?
+France
+Spain
+Ireland
+Norway

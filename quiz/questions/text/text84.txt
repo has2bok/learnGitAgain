@@ -1,0 +1,8 @@
+text
+4
+2
+Which is the highest mountain in Africa?
+Mount Everest
+Mount Kilimanjaro
+Mount Fuji
+Mount Olympus

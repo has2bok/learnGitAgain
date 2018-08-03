@@ -1,0 +1,8 @@
+text
+4
+2
+What is the name of the Australian stick or toy that is designed to come back to you when thrown?
+Arrow
+Boomerang
+Ouch
+Frisbee

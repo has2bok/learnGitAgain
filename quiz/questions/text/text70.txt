@@ -1,0 +1,8 @@
+text
+4
+4
+What colour are Smurfs?
+Bleu
+Yellow
+Red
+Blue

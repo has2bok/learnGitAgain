@@ -1,0 +1,8 @@
+text
+4
+2
+On a standard dartboard, what is the lowest number that cannot be achieved with a single dart?
+21
+23
+43
+35

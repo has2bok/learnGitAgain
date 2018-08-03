@@ -1,0 +1,9 @@
+picture
+4
+3
+americanflag.jpg
+Which country does this flag represent?
+Canada
+Mexico
+USA
+Russia

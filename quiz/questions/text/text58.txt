@@ -1,0 +1,8 @@
+text
+4
+1
+Which animal is the mascot of Hufflepuff house?
+Badger
+Eagle
+Serpent
+Lion

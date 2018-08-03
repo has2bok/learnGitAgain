@@ -1,0 +1,11 @@
+Sound question format
+
+text 	-  denotes type of question text,  sound  etc
+4	-  number of multiple choice options
+2	-  number of correct answer
+Sound file to play 
+???	-  question
+a	-  multiple choice option 1
+b	-  multiple choice option 2
+c	-  multiple choice option 3
+d	-  multiple choice option 4

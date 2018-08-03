@@ -1,0 +1,11 @@
+Picture question format
+
+text 	-  denotes type of question text,  music  etc
+4	-  number of multiple choice options
+2	-  number of correct answer
+Picture file to display -----will be scaled up/down in program
+???	-  question
+a	-  multiple choice option 1
+b	-  multiple choice option 2
+c	-  multiple choice option 3
+d	-  multiple choice option 4

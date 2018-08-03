@@ -1,0 +1,8 @@
+text
+4
+4
+How many weeks are there in a year?
+48
+12
+365
+52

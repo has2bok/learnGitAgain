@@ -1,0 +1,9 @@
+picture
+4
+1
+herbiebeetle.jpg
+What is the number on Herbie the Beetle?
+Fifty-three
+Fifty-two
+Fifty-one
+Fifty

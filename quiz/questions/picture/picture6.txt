@@ -1,0 +1,9 @@
+picture
+4
+4
+germanflag.png
+Which country has this as their national flag?
+U.S.A
+Russia
+Australia
+Germany

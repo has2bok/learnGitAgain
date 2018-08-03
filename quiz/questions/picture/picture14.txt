@@ -1,0 +1,9 @@
+picture
+4
+1
+docdwarf.jpg
+This is Doc - can you remember which Film he is from?
+Snow White
+Cinderella
+Bambi
+Beauty and the Beast

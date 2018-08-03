@@ -1,0 +1,8 @@
+text
+4
+1
+How many sides does a hexagon have?
+6
+8
+4
+2

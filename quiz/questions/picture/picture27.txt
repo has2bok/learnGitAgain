@@ -1,0 +1,9 @@
+picture
+4
+2
+giantpanda.jpg
+What food does this animal normally eat?
+Eucalyptus
+Bamboo
+McDonalds
+Grass

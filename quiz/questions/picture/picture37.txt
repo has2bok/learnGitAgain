@@ -1,0 +1,9 @@
+picture
+4
+4
+cyprus.png
+What is the name of this country??
+Hungary
+Iceland
+Germany
+Cyprus

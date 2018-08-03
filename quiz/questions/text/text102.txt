@@ -1,0 +1,8 @@
+text
+4
+4
+After which animals are the Canary Islands named?
+Canaries
+Cats
+Budgies
+Dogs

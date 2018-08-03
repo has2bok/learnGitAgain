@@ -1,0 +1,8 @@
+text
+4
+4
+What is the name of the vehicle Scooby Doo and friends travel in?
+The wacky wagon
+Scooby wheels
+Ecto-1
+The mystery machine
